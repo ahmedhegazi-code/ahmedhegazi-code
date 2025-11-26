@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
+<img src="https://github.com/USERNAME/REPO/blob/main/images/ahmed_hellocoders.gif?raw=true" width="60%"/>
 
 ## 👋 Welcome to My GitHub  
 ### I'm **Ahmed Hegazy** — AI Engineer & Machine Learning Developer
