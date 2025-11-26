@@ -17,7 +17,7 @@
 - 🔬 AI Engineer specializing in **Machine Learning**, **Deep Learning**, and **Model Deployment**.  
 - 🤖 Passionate about building intelligent systems and production-ready AI solutions.  
 - 🐧 Love tweaking Linux, optimizing workflows, and automating everything.  
-- 🎤 Ask me about: AI, Python, PC building, movies, or anything you're curious about.
+- 🎤 Ask me about: AI, Python, PC building.
 
 ---
 
