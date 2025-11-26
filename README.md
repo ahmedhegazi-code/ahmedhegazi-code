@@ -9,14 +9,6 @@
 
 ---
 
-### 🎧 Currently vibing while building AI Systems
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)
-
----
-
-![Views](https://komarev.com/ghpvc/?username=Ahmed-Hegazy&style=flat&color=orange&label=PROFILE+VIEWS)
-
 </div>
 
 ---
@@ -41,24 +33,17 @@
 
 ### 💻 Programming & Development
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-
-### 🌐 Web & Backend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Python](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9fc56330-50c3-4d00-b966-6f97b60cdb5b" />
+)
 
 ### 🗄️ Databases  
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 ### 🛠️ Tools & Platforms  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
 
 ---
 
@@ -68,7 +53,7 @@
 class AhmedHegazy:
     def __init__(self):
         self.role = "AI Engineer"
-        self.languages = ["Python", "C++", "JavaScript", "Dart"]
+        self.languages = ["Python", "C++"]
         self.frameworks = ["TensorFlow", "PyTorch", "Flask", "FastAPI"]
         self.interests = ["Machine Learning", "Deep Learning", "Model Deployment"]
 
