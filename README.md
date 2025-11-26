@@ -33,8 +33,7 @@
 
 ### 💻 Programming & Development
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9fc56330-50c3-4d00-b966-6f97b60cdb5b" />
-)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 
 ### 🗄️ Databases  
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
